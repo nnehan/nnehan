@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey! I'm studying web development. After graduation I want to find a remote job. I have been interested in computers since I was a little kid.
 
 <!--
 **nnehan/nnehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
