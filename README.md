@@ -1,3 +1,7 @@
+
+
+
+
 ## Hey! I'm studying web development. After graduation I want to find a remote job. I have been interested in computers since I was a little kid. I want to make it a career. Over the years I have built custom PCs for family and friends. Me and my family like to watch movies, listen to music and go on road trips.
 
 <!--
