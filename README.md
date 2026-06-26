@@ -1,4 +1,4 @@
-hello
+Hello, my name is Nejat. I am a software developer with 2 years of experience. I want to build a better future by creating responsive, accessible, and user-centric software that bridges the gap between technology and human connection.
 
 ![github page pic](https://github.com/nnehan/nnehan/assets/170208943/dbb2eb4e-d47b-473b-be11-4ad66815f6a0)
 
