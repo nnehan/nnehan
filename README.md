@@ -8,9 +8,13 @@ I am currently studying at Arizona State University, pursuing a degree in softwa
 
 ### Front-End Development
 
-* HTML
+* HTML * CSS
 
-I have experience in front-end and back-end development such as HTML, CSS, JavaScript, Java and Python.
+### Back-End Development
+
+* JavaScript * Java * Python
+
+
 
 Portfolio: https://sites.google.com/asu.edu/nejatnehanportfolio/work
 
