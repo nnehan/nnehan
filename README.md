@@ -11,7 +11,7 @@ I am currently studying at Arizona State University, pursuing a degree in softwa
 * HTML
 * CSS
 
-### Back-End Development
+### Programming Languages
 
 * JavaScript
 * Java
