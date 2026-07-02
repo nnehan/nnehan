@@ -10,10 +10,10 @@ I am currently studying at Arizona State University, pursuing a degree in softwa
 
 * HTML
 * CSS
-
-### Programming Languages
-
 * JavaScript
+
+### Back-End Development
+
 * Java
 * Python
 
