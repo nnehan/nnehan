@@ -1,12 +1,12 @@
-## Hello, I'm Nejat Nehan.
+# Hello, I'm Nejat Nehan.
 
-## About Me
+# About Me
 
 I am currently studying at Arizona State University, pursuing a degree in software development. I’m looking to be part of a purpose-driven company where I can enhance my skills and grow at a personal and a professional level. I want to build a better future by creating responsive, accessible, and user-centric software that bridges the gap between technology and human connection.
 
-## My Skills
+# My Skills
 
-# Front-End Development
+## Front-End Development
 
 * HTML
 
