@@ -1,4 +1,4 @@
-#Hello, my name is Nejat. I am a software developer with 2 years of experience. I want to build a better future by creating responsive, accessible, and user-centric software that bridges the gap between technology and human connection.
+# Hello, my name is Nejat. I am a software developer with 2 years of experience. I want to build a better future by creating responsive, accessible, and user-centric software that bridges the gap between technology and human connection.
 
 I have experience in front-end and back-end development such as HTML, CSS, JavaScript, Java and Python.
 
